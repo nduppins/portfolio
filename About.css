@@ -14,6 +14,7 @@
     padding: 3em; 
     float: right;
 }
+/* TODO: I think you want to do a little more here, maybe use the width property, to get the floats working properly. */
 #Nasirworld{
     float: left;
 }
