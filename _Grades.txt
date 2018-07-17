@@ -21,3 +21,24 @@ Grade:  90
 Comment: Good start.  A few small issues.
 
 I did note a few things as TODO items in your code.   You can view them by clicking the ToDo Tree icon on the left of your VS Code window.
+
+########
+
+Assignment: Use Google Forms to add a contact form to your page.
+
+Grade: 85
+
+Comment:  You got this in early, good job, but the form is broken... it looks like you have the link broken up in to multiple lines, which caused the problem.
+
+You had this:
+
+src=
+    "https://docs.google.com/forms/d/e/1FAIpQLS
+    cIkbn1x8rYC-x77GKNXZlcI1_nxpSw2z0jmarWWwszeFswvQ/viewform?
+    embedded=true"
+
+and it needed to be this:
+
+src="https://docs.google.com/forms/d/e/1FAIpQLScIkbn1x8rYC-x77GKNXZlcI1_nxpSw2z0jmarWWwszeFswvQ/viewform?embedded=true"
+
+(I know it probably wraps to multiple lines, but that's just the way it's displayed... it's all one long line.  Try clicking [Alt]+Z and see the line wrapping change.)
