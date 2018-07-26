@@ -4,3 +4,13 @@ body {
      font-family: 'Lato', sans-serif;
 
 }
+.NasirWorld {
+    background: plum;
+    font-family: 'Roboto', sans-serif;
+    float: left;
+    width: 600px;
+    font: 40px;
+    border:25px solid whitesmoke;
+    margin: 25px;
+    padding: 25px;
+}

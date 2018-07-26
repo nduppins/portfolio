@@ -6,16 +6,19 @@
     animation-duration: 5s;
 }
 
-.Nasirworld {
-    background: rgb(144, 227, 238);
+.NasirWorld {
+    background:bisque;
     font-family: 'Roboto', sans-serif;
     float: left;
     width: 600px;
     font: 40px;
+    border:25px solid red;
+    margin: 25px;
+    padding: 25px;
 }
 
 body {
-    background: rgb(144, 227, 238);
+    background: lightsalmon;
     font-family: 'Roboto', sans-serif;
 }
 
