@@ -1,5 +1,7 @@
 Portfolio final grade: 83
 
+Comments:  Good first effort, but it could have used more effort on the CSS styling.
+
 ########
 
 Code Quality:  Does it follow proper HTML and CSS rules, including the Clean HTML Tips and other issues noted in class?
