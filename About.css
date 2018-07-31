@@ -1,9 +1,9 @@
 #MyPicture {
-    padding: 40px;
+    padding: 50px;
     float: right;
-    width: 300px;
+    width: 200px;
     animation-name: animation;
-    animation-duration: 5s;
+    animation-duration: 4s;
 }
 
 .NasirWorld {
